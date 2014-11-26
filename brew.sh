@@ -56,5 +56,8 @@ brew install python
 brew install mongodb
 brew install mysql
 brew install redis
+
+brew install caskroom/cask/brew-cask
+
 # Remove outdated versions from the cellar.
 brew cleanup
