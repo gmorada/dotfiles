@@ -58,6 +58,7 @@ brew install mysql
 brew install redis
 
 brew install caskroom/cask/brew-cask
+brew install postgresql
 
 # Remove outdated versions from the cellar.
 brew cleanup
