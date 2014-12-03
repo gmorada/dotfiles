@@ -20,3 +20,4 @@ brew cask install adobe-reader 2> /dev/null
 brew cask install gitx 2> /dev/null
 brew cask install skype 2> /dev/null
 brew cask install firefox-aurora 2> /dev/null
+brew cask install pgadmin3 2> /dev/null
